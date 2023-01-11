@@ -35,7 +35,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <!-- <li><a href="#dependencies">Dependencies</a></li> -->
       </ul>
     </li>
     <li>
@@ -91,12 +90,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Update your npm and nodejs to LTS version or above if you have your nodejs installed.
+Download [Node.js LTS or Current][Nodejs-url]
+
+Update your `NPM` and `Node.js` if you have your nodejs installed.
 ```sh
 npm install npm@latest -g
 ```
@@ -108,9 +108,16 @@ npm install npm@latest -g
    git clone https://github.com/BabyfaceDeveloper/NASA-Project.git
    ```
 2. Install NPM packages for client and server
-   ```sh
-   npm install
-   ```
+   * Client
+      ```sh
+      cd client
+      npm install
+      ```
+   * Server
+      ```sh
+      cd server
+      npm install
+      ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +135,7 @@ npm install npm@latest -g
   npm run watch
   ```
 
-_For more examples, please refer to the [React documentation](https://reactjs.org/), [Express documentation](https://expressjs.com/en/4x/api.html)_
+_For more information about React and Express, please refer to the [React documentation](https://reactjs.org/), [Express documentation](https://expressjs.com/en/4x/api.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,10 +144,29 @@ _For more examples, please refer to the [React documentation](https://reactjs.or
 <!-- HELP -->
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
