@@ -12,6 +12,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-wins": "set BUILD_PATH=../server/public&& npm run build",
+    "build-bash": "BUILD_PATH=../server/public npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
