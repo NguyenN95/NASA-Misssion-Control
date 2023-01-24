@@ -35,7 +35,7 @@ async function loadPlanetsData() {
 }
 
 async function getAllPlanets() {
-    return await planets.find({}).exec();
+    return await planets.find({}, { "_id": 0, "__v": 0 }).exec();
 }
 
 async function savePlanet(planet) {
