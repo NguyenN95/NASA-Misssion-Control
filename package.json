@@ -11,6 +11,7 @@
     "client": "npm start --prefix client",
     "start": "concurrently \"npm:server\" \"npm:client\"",
     "deploy": "npm run build-wins --prefix client && npm start --prefix server",
+    "deploy-cluster": "npm run build-wins --prefix client && npm run cluster --prefix server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
