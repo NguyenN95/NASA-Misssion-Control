@@ -7,7 +7,6 @@ describe("Launches API", () => {
     beforeAll(async () => {
         await mongoConnect();
         await loadPlanetsData();
-        console.log((await request(app).get("/v1/planets")).body);
     });
 
     afterAll(async () => {
