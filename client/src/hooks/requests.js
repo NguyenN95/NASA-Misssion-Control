@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000/v1';
+const API_URL = process.env.REACT_APP_API_URL;
 
 // Load planets and return as JSON.
 async function httpGetPlanets() {

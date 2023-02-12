@@ -1,0 +1,11 @@
+**/*.gitignore
+**/LICENSE
+**/README.md
+Project+Architectural+Diagram.png
+**/node_modules
+**/.env
+**/Dockerfile
+**/.github
+**/.git
+server/public
+client/.env.development
