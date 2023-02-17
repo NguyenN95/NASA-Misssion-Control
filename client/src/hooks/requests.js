@@ -2,6 +2,7 @@ const API_URL = process.env.REACT_APP_API_URL;
 
 // Load planets and return as JSON.
 async function httpGetPlanets() {
+  console.log(`${API_URL}/planets`);
   const response = await fetch(`${API_URL}/planets`);
   return await response.json();
 }
