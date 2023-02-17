@@ -11,6 +11,8 @@ ADD client .
 
 RUN npm install --omit=dev
 
+ENV REACT_APP_API_URL=v1
+
 RUN npm run build
 
 FROM node:lts-alpine
