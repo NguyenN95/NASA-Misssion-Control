@@ -68,9 +68,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![NASA Mission Control][product-screenshot]](https://schedule-launching-rocket.onrender.com/)
+<div align="center">
 
-User can create schedule, view incoming, aborted schedule and all history
+<a href="https://schedule-launching-rocket.onrender.com/">
+  <img src="images/screenshot.gif"/>
+</a>
+
+Users can create schedule, view incoming, aborted schedule and all history
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +119,8 @@ These instructions below are meant to be for reproducing running application on 
    ```sh
    git clone https://github.com/NguyenN95/NASA-Misssion-Control.git
    ```
-2. Install NPM packages for client and server
+2. Install `MongoDB` see [this instruction][MongoDB-download-url]
+3. Install NPM packages for client and server
    * Client
       ```sh
       cd client
@@ -225,8 +231,6 @@ Project Link: [https://github.com/NguyenN95/NASA-Misssion-Control](https://githu
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-
-[product-screenshot]: images/screenshot.gif
 
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
