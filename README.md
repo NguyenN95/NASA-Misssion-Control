@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
+Nguyen - [@Nguyen Linkedin][linkedin-url]
 
 Project Link: [https://github.com/NguyenN95/NASA-Misssion-Control](https://github.com/NguyenN95/NASA-Misssion-Control)
 
@@ -230,7 +230,7 @@ Project Link: [https://github.com/NguyenN95/NASA-Misssion-Control](https://githu
 [license-url]: https://github.com/NguyenN95/NASA-Misssion-Control/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/nguyenn95
 
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
