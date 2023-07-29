@@ -1,27 +1,35 @@
 <a name="readme-top"></a>
 
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BabyfaceDeveloper/NASA-Project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/NguyenN95/NASA-Misssion-Control">
+    <img src="images/logo.gif" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">NASA Project</h3>
+<h3 align="center">NASA Mission Control</h3>
 
   <p align="center">
-    ..................
+    "To Infinity and Beyond!"
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/NASA-Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NguyenN95/NASA-Misssion-Control#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/NASA-Project">View Demo</a>
+    <a href="https://github.com/NguyenN95/NASA-Misssion-Control">View Demo</a>
     ·
-    <a href="https://github.com/BabyfaceDeveloper/NASA-Project/issues">Report Bug</a>
+    <a href="https://github.com/NguyenN95/NASA-Misssion-Control/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BabyfaceDeveloper/NASA-Project/issues">Request Feature</a>
+    <a href="https://github.com/NguyenN95/NASA-Misssion-Control/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,9 +68,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![NASA Mission Control][product-screenshot]](https://schedule-launching-rocket.onrender.com/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+User can create schedule, view incoming, aborted schedule and all history
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,41 +79,40 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![Express][Express.js]][Express-url]
-* [![NPM][npmjs]][NPM-url]
-* [![Nodejs][nodejs]][Nodejs-url]
 * [![React][React.js]][React-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ### Dependencies
-
-* Your Dependencies here
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+These instructions below are meant to be for reproducing running application on your machine.
 
 ### Prerequisites
 
-Download [Node.js LTS or Current][Nodejs-url]
+**Environment**
 
-Update your `NPM` and `Node.js` if you have your nodejs installed.
-```sh
-npm install npm@latest -g
-```
+- [Node.js LTS or Current][Nodejs-download-url]
+
+> Update your `NPM` and `Node.js` if you have your nodejs installed.
+  ```sh
+  npm install npm@latest -g
+  ```
+
+- [MongoDB][MongoDB-download-url]
+
+**My favorite IDE**
+
+  - [Visual Studio Code (latest)](https://code.visualstudio.com/)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/BabyfaceDeveloper/NASA-Project.git
+   git clone https://github.com/NguyenN95/NASA-Misssion-Control.git
    ```
 2. Install NPM packages for client and server
    * Client
@@ -135,7 +142,9 @@ npm install npm@latest -g
   npm run watch
   ```
 
-_For more information about React and Express, please refer to the [React documentation](https://reactjs.org/), [Express documentation](https://expressjs.com/en/4x/api.html)_
+_For more information about `React`, please refer to this [Documentation](https://react.dev/reference/react)_
+
+_For more information about `Express`, please refer to this [Documentation](https://expressjs.com/en/4x/api.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,29 +153,9 @@ _For more information about React and Express, please refer to the [React docume
 <!-- HELP -->
 ## Help
 
-### Code Splitting
+Get help about `React`? Please go to [this page](https://react.dev/community)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you can not find the issue. Please go to [Stackoverflow](https://stackoverflow.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
 
-Project Link: [https://github.com/BabyfaceDeveloper/NASA-Project](https://github.com/BabyfaceDeveloper/NASA-Project)
+Project Link: [https://github.com/NguyenN95/NASA-Misssion-Control](https://github.com/NguyenN95/NASA-Misssion-Control)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,47 +184,60 @@ Project Link: [https://github.com/BabyfaceDeveloper/NASA-Project](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+**Course**
+
+* [Complete Node.js Developer in 2023](https://zerotomastery.io/courses/learn-node-js/)
+
+**README.md Template**
+
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+**VS Code Extension**
+
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+
+**Markdown + Shields.io + Emoji**
+
+* [How to make custom language badges for your profile using shields.io](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+* [Markdown-badges](https://github.com/Ileriayo/markdown-badges)
+* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/NguyenN95/NASA-Misssion-Control.svg?style=for-the-badge
+[contributors-url]: https://github.com/NguyenN95/NASA-Misssion-Control/graphs/contributors
 
-<!-- How to make badages Reference -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
+[forks-shield]: https://img.shields.io/github/forks/NguyenN95/NASA-Misssion-Control.svg?style=for-the-badge
+[forks-url]: https://github.com/NguyenN95/NASA-Misssion-Control/network/members
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/BabyfaceDeveloper/NASA-Project/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/NguyenN95/NASA-Misssion-Control.svg?style=for-the-badge
+[stars-url]: https://github.com/NguyenN95/NASA-Misssion-Control/stargazers
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/BabyfaceDeveloper/NASA-Project/network/members
+[issues-shield]: https://img.shields.io/github/issues/NguyenN95/NASA-Misssion-Control.svg?style=for-the-badge
+[issues-url]: https://github.com/NguyenN95/NASA-Misssion-Control/issues
 
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/BabyfaceDeveloper/NASA-Project/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/BabyfaceDeveloper/NASA-Project/issues
-
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/BabyfaceDeveloper/NASA-Project/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/NguyenN95/NASA-Misssion-Control.svg?style=for-the-badge
+[license-url]: https://github.com/NguyenN95/NASA-Misssion-Control/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.gif
 
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
 
-[npmjs]: https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://www.npmjs.com/
-
 [nodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Nodejs-url]: https://nodejs.org/en/
+[Nodejs-download-url]: https://nodejs.org/en/download
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[React-url]: https://react.dev/
+
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+[MongoDB-download-url]: https://www.mongodb.com/docs/manual/installation/
