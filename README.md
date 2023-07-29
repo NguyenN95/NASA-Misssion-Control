@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nguyen - [@Nguyen Linkedin][linkedin-url]
+Nguyen - [@linkedin][linkedin-url] - nguyennguyen7595@gmail.com
 
 Project Link: [https://github.com/NguyenN95/NASA-Misssion-Control](https://github.com/NguyenN95/NASA-Misssion-Control)
 
